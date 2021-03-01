@@ -1,0 +1,7 @@
+<div>
+                    <a href="#" class="nav__logo">Arnanda</a>
+                </div>
+
+<i aria-hidden='true' class='fa fa-heart' style='color: red;margin:0 2px;'/> by <a href='http://www.templatesyard.com/' id='mycontent' rel='dofollow' title='Blogger Designer'>TemplatesYard</a> | Distributed By <a href='https://gooyaabitemplates.com/' rel='dofollow' style='color:#0be6af;' target='_blank' title='Gooyaabi Themes'>Gooyaabi Themes</a>
+
+
