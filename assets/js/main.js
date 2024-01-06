@@ -36,7 +36,7 @@ function scrollActive(){
 $(document).ready(function(){
     
     var typed = new Typed(".typing", {
-        strings: ["Infrastructure Engineer"],
+        strings: ["IT Enthusiast"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
